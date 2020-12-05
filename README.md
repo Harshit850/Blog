@@ -1,2 +1,3 @@
-# Blog
-A Blog website hosted on heroku development server, not connected to database.
+# Blog Website
+Daily Journel is a motivational blog where you find inspiring and motivating quotes daily. I am sure that you find this website interesting.
+[a link](https://hidden-forest-29802.herokuapp.com/)
